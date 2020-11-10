@@ -1,6 +1,5 @@
 <?php
-	session_start();
-	require_once 'data_conn.php';
+	
 	$username="";
 	$password="";
 	$err_username="";

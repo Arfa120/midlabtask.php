@@ -1,5 +1,5 @@
 <?php
-    require 'connection.php';
+    
     $fullname ="";
 	$username="";
     $password="";

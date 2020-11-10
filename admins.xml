@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<admins>
+	<admin>
+		<fullname>Admin</fullname>
+		<username>admin</username>
+		<password>rgblightingkeyboards</password>
+		<gender>female</gender>
+        <phone>111111111</phone>
+        <city>Dhaka</city>
+	</admin>
+<admin><fullName>eshna</fullName><userName>eshna_noor</userName>
+<password>10000000</password><gender>on</gender><mail>arfa@yahoo.com</mail><contact>11111111111</contact><city>gec</city></admin></admins>
